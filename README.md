@@ -5,6 +5,6 @@
 # get static JS file
   ![](https://github.com/JasonZang1005/cloudgo-template/raw/master/result/getJS.jpg)
 # template
-  ![](https://github.com/JasonZang1005/cloudgo-template/raw/master/result/outputForm.jpg)
+  ![](https://github.com/JasonZang1005/cloudgo-template/raw/master/result/outputForm.png)
 # get static html page
-  ![](https://github.com/JasonZang1005/cloudgo-template/raw/master/result/staticFile.jpg)
+  ![](https://github.com/JasonZang1005/cloudgo-template/raw/master/result/staticFile.png)
